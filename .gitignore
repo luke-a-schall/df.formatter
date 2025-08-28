@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# packagefiles
+.Rbuildignore
+LICENSE.md
+
+# extra folders
+additional scripts/

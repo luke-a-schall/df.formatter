@@ -1,0 +1,10 @@
+Package: df.formatter
+Type: Package
+Title: Data Frame Formatter
+Version: 1.0.1
+Date: 2025-07-31
+Maintainer: Luke Schall <lukeAS2006@gmail.com>
+Description: Facilitates the organizing of data frames, with the inclusion of datasets for practicing the new functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
