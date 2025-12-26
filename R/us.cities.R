@@ -1,1 +1,1 @@
-us.cities <- read.csv("~/programming/r/packages/df.formatter/datasets/us_cities.csv")
+us.cities <- read.csv("datasets/us_cities.csv")
