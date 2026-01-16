@@ -1,7 +1,7 @@
 Package: df.formatter
 Type: Package
 Title: Data Frame Formatter
-Version: 1.0.2
+Version: 1.1.0
 Date: 2025-07-31
 Maintainer: Luke Schall <lukeAS2006@gmail.com>
 Description: Facilitates the organizing of data frames, with the inclusion of datasets for practicing the new functions.
